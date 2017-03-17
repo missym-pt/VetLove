@@ -11,7 +11,7 @@ Por mudança de gerência, esta pretende informatizar todos os serviços inerent
 Em conversa com o novo gerente, este manifestou-lhe a necessidade de informatizar a ficha de clientes e do seus respectivos animais de estimação.
 Por cada cliente, a administrativa deve apontar o __nome__, a __morada__, o **email** e o **telefone**.
 Um cliente tem um ou mais animais. Cada animal tem uma *classificação* (cão, gato, papagaio, etc.), raça, data de nascimento e ficha.
-Na ficha deve constar as vacinações (data, nome de vacina) e as consultas (data, descrição).
+Na ficha deve constar as vacinações (data, nome de vacina, preço) e as consultas (data, descrição).
 
 ### Exercícios
 
